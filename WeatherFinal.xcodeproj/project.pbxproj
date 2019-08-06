@@ -12,6 +12,9 @@
 		88006FBF22F8E331008D2ADB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88006FBD22F8E331008D2ADB /* Main.storyboard */; };
 		88006FC122F8E331008D2ADB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88006FC022F8E331008D2ADB /* Assets.xcassets */; };
 		88006FC422F8E331008D2ADB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88006FC222F8E331008D2ADB /* LaunchScreen.storyboard */; };
+		88006FCC22F9D00D008D2ADB /* wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88006FCB22F9D00D008D2ADB /* wallpaper.jpg */; };
+		88006FCE22F9D131008D2ADB /* wall2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88006FCD22F9D130008D2ADB /* wall2.jpg */; };
+		88006FD022F9D671008D2ADB /* buttonWeather.png in Resources */ = {isa = PBXBuildFile; fileRef = 88006FCF22F9D671008D2ADB /* buttonWeather.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		88006FC022F8E331008D2ADB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88006FC322F8E331008D2ADB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88006FC522F8E331008D2ADB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88006FCB22F9D00D008D2ADB /* wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wallpaper.jpg; path = ../../../../Downloads/wallpaper.jpg; sourceTree = "<group>"; };
+		88006FCD22F9D130008D2ADB /* wall2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wall2.jpg; path = ../../../../Downloads/wall2.jpg; sourceTree = "<group>"; };
+		88006FCF22F9D671008D2ADB /* buttonWeather.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = buttonWeather.png; path = ../../../../Downloads/buttonWeather.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				88006FBB22F8E331008D2ADB /* ViewController.swift */,
 				88006FBD22F8E331008D2ADB /* Main.storyboard */,
 				88006FC022F8E331008D2ADB /* Assets.xcassets */,
+				88006FCF22F9D671008D2ADB /* buttonWeather.png */,
+				88006FCD22F9D130008D2ADB /* wall2.jpg */,
+				88006FCB22F9D00D008D2ADB /* wallpaper.jpg */,
 				88006FC222F8E331008D2ADB /* LaunchScreen.storyboard */,
 				88006FC522F8E331008D2ADB /* Info.plist */,
 			);
@@ -122,7 +131,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88006FCC22F9D00D008D2ADB /* wallpaper.jpg in Resources */,
 				88006FC422F8E331008D2ADB /* LaunchScreen.storyboard in Resources */,
+				88006FD022F9D671008D2ADB /* buttonWeather.png in Resources */,
+				88006FCE22F9D131008D2ADB /* wall2.jpg in Resources */,
 				88006FC122F8E331008D2ADB /* Assets.xcassets in Resources */,
 				88006FBF22F8E331008D2ADB /* Main.storyboard in Resources */,
 			);
